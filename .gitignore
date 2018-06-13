@@ -22,3 +22,6 @@ yarn-error.log*
 
 #locks
 package-lock.json
+
+#editors files
+react-complete-guide.code-workspace
